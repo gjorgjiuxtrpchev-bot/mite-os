@@ -1,0 +1,10 @@
+secrets/
+tok.txt
+.env
+.env.*
+.tmp-app-token
+_archive-v1/
+tmp/
+*.pem
+*.key
+node_modules/
